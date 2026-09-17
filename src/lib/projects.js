@@ -1,4 +1,4 @@
-import movieXD from "@/assets/images/movieXD.png";
+import movieXD from "@/assets/images/moviexd.png";
 import dinehubImage from "@/assets/images/dinehub.png";
 import cryptoImage from "@/assets/images/crypto.png";
 
